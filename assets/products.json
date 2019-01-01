@@ -1,0 +1,14 @@
+[
+  {
+    "appName": "ONB",
+    "environments": ["Smoke", "IQA", "US-STAGE", "US-PROD"],
+    "Smoke-servers": ["SMOKE1", "SMOKE1", "SMOKE1"],
+    "IQA-servers": ["IQA", "bbb", "ccc"]
+  },
+  {
+    "appName": "BW",
+    "environments": ["Smoke", "IQA", "US-STAGE", "US-PROD"],
+    "Smoke-servers": ["BWSMOKE", "dsf", "erdter"],
+    "IQA-servers": ["BWIQA", "iiii", "qqqq"]
+  }
+]
